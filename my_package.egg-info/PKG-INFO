@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: my_package
+Version: 0.1
+Author: Ragu
+Author-email: ragu.james20@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
