@@ -1,0 +1,9 @@
+2025-03-04 13:09:13,004 - INFO - This is info message
+2025-03-04 13:09:13,004 - DEBUG - This is debug message
+2025-03-04 13:09:13,004 - WARNING - This is warning message
+2025-03-04 13:09:13,004 - ERROR - This is error message
+2025-03-04 13:09:13,005 - CRITICAL - This is critical message
+2025-03-04 13:09:13,005 - INFO - Logging has started
+2025-03-04 13:09:13,005 - DEBUG - Logging has started
+2025-03-04 13:09:13,005 - WARNING - Logging has started
+2025-03-04 13:09:13,005 - ERROR - Logging has started
